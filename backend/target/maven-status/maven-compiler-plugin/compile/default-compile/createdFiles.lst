@@ -1,0 +1,4 @@
+com\defense\controller\DefenseResponse.class
+com\defense\controller\AnalysisRequest.class
+com\defense\controller\DefenseController.class
+com\defense\LlmDefenseApiApplication.class
